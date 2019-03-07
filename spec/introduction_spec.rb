@@ -13,5 +13,7 @@ describe "#introduction_with_language" do
 end
 lib/introduction.rb.
 def introduction (john)
+  puts "hi, my name is #{john}"
 end
+
 
