@@ -12,5 +12,6 @@ describe "#introduction_with_language" do
   end
 end
 lib/introduction.rb.
-def introduction 
+def introduction (john)
 end
+
